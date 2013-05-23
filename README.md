@@ -17,7 +17,7 @@ as possible:
 This alternative can be linked against directly from [here][alternative-api] or
 included as a normal JavaScript file.
 
-Based on [this gist][gist].
+Based on [this gist][gist] (which now includes a JSON of its own).
 
 [gist]: https://gist.github.com/codemasher/bac2b4f87e7af128087e
 [alternative-api]: https://raw.github.com/commonquail/gw2-wvw-objectives/master/objectives.js
